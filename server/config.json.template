@@ -1,0 +1,9 @@
+{
+    "MONGODB_SETTINGS": {"DB": "pyfhir"},
+    "TESTING": true,
+    "SECRET_KEY": "flask+mongoengine=<3",
+    "DEBUG": true,
+    "HOST": "0.0.0.0",
+    "PORT": 9001,
+    "DB_TYPE": "MONGO", //[MONGO,SQLALCHEMY]
+}
